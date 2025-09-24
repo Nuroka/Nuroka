@@ -1,4 +1,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nuroka)](https://solved.ac/nuroka/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuroka)](https://github.com/Nuroka/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuroka)](https://github.com/anuraghazra/github-readme-stats)
